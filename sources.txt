@@ -1,0 +1,5 @@
+argocd install
+https://raw.githubusercontent.com/argoproj/argo-cd/v2.6.4/manifests/install.yaml
+
+keda inatall
+https://github.com/kedacore/keda/releases/download/v2.4.0/keda-2.4.0.yaml
